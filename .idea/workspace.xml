@@ -6,7 +6,6 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="MainActivity" />
     <option name="TOOL_WINDOW_LOG_LEVEL" value="info" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
@@ -22,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ee838af-6c90-4a07-92bc-23c005510ed6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/dessertclicker/DessertTimer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/dessertclicker/DessertTimer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/dessertclicker/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/dessertclicker/MainActivity.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616670482810</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Menggunakan Timer pada Lifecycle">
+      <created>1616670884471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616670884471</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,7 +201,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Mempelajari method onCreate dan Logging" />
     <MESSAGE value="Menggunakan Timber untuk Logging" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menggunakan Timber untuk Logging" />
+    <MESSAGE value="Menggunakan Timer pada Lifecycle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menggunakan Timer pada Lifecycle" />
   </component>
   <component name="WindowStateProjectService">
     <state x="747" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1616568791171">
@@ -211,22 +217,22 @@
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
     <state x="744" y="278" key="FileChooserDialogImpl/0.0.1920.1043@0.0.1920.1043" timestamp="1616664513277" />
-    <state width="1874" height="232" key="GridCell.Tab.0.bottom" timestamp="1616670351126">
+    <state width="1874" height="232" key="GridCell.Tab.0.bottom" timestamp="1616670878256">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state width="1874" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1043@0.0.1920.1043" timestamp="1616670351126" />
-    <state width="1874" height="232" key="GridCell.Tab.0.center" timestamp="1616670351125">
+    <state width="1874" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1043@0.0.1920.1043" timestamp="1616670878256" />
+    <state width="1874" height="232" key="GridCell.Tab.0.center" timestamp="1616670878255">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state width="1874" height="232" key="GridCell.Tab.0.center/0.0.1920.1043@0.0.1920.1043" timestamp="1616670351125" />
-    <state width="1874" height="232" key="GridCell.Tab.0.left" timestamp="1616670351125">
+    <state width="1874" height="232" key="GridCell.Tab.0.center/0.0.1920.1043@0.0.1920.1043" timestamp="1616670878255" />
+    <state width="1874" height="232" key="GridCell.Tab.0.left" timestamp="1616670878254">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state width="1874" height="232" key="GridCell.Tab.0.left/0.0.1920.1043@0.0.1920.1043" timestamp="1616670351125" />
-    <state width="1874" height="232" key="GridCell.Tab.0.right" timestamp="1616670351125">
+    <state width="1874" height="232" key="GridCell.Tab.0.left/0.0.1920.1043@0.0.1920.1043" timestamp="1616670878254" />
+    <state width="1874" height="232" key="GridCell.Tab.0.right" timestamp="1616670878255">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state width="1874" height="232" key="GridCell.Tab.0.right/0.0.1920.1043@0.0.1920.1043" timestamp="1616670351125" />
+    <state width="1874" height="232" key="GridCell.Tab.0.right/0.0.1920.1043@0.0.1920.1043" timestamp="1616670878255" />
     <state x="505" y="154" width="1007" height="732" key="SettingsEditor" timestamp="1616664123168">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
