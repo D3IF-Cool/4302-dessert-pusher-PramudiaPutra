@@ -15,26 +15,20 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ee838af-6c90-4a07-92bc-23c005510ed6" name="Default Changelist" comment="" />
+    <list default="true" id="2ee838af-6c90-4a07-92bc-23c005510ed6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/dessertclicker/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/dessertclicker/MainActivity.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[192.168.56.102:5555]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -65,7 +59,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qByEs1L3VrdHnne9U6WjJBqsHZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -76,7 +70,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../android-kotlin-fundamentals-starter-apps/DessertClicker-Starter" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
@@ -156,6 +150,14 @@
       <option name="presentableId" value="Default" />
       <updated>1616567168248</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1616664468145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616664468145</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +176,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="747" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1616568791171">
@@ -184,10 +188,10 @@
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
     <state x="100" y="100" width="1720" height="843" key="AVDManager/0.0.1920.1043@0.0.1920.1043" timestamp="1616643625040" />
-    <state x="744" y="278" key="FileChooserDialogImpl" timestamp="1616663837176">
+    <state x="744" y="278" key="FileChooserDialogImpl" timestamp="1616664513277">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
-    <state x="744" y="278" key="FileChooserDialogImpl/0.0.1920.1043@0.0.1920.1043" timestamp="1616663837176" />
+    <state x="744" y="278" key="FileChooserDialogImpl/0.0.1920.1043@0.0.1920.1043" timestamp="1616664513277" />
     <state width="1874" height="276" key="GridCell.Tab.0.bottom" timestamp="1616663838451">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
@@ -208,5 +212,9 @@
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
     <state x="505" y="154" width="1007" height="732" key="SettingsEditor/0.0.1920.1043@0.0.1920.1043" timestamp="1616664123168" />
+    <state x="556" y="256" key="Vcs.Push.Dialog.v2" timestamp="1616664556877">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="556" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1043@0.0.1920.1043" timestamp="1616664556877" />
   </component>
 </project>
